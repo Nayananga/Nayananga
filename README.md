@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Nayananga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayananga&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Nayananga/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayananga&langs_count=10&layout=compact)](https://github.com/Nayananga/github-readme-stats)
